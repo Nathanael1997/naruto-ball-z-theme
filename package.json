@@ -1,0 +1,21 @@
+{
+    "name": "naruto-ball-z",
+    "displayName": "Orange Pacific (Naruto Ball Z)",
+    "description": "VS Code theme inspired by Naruto & Dragon Ball Z Colors Manga Series (By N. Kazaka)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Naruto Ball Z",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Naruto Ball Z-color-theme.json"
+            }
+        ]
+    }
+}
